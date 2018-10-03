@@ -1,0 +1,12 @@
+Source: starlabs-cursor-theme
+Section: admin
+Priority: optional
+Maintainer: Star Labs <root@starlabs.systems>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 4.1.1
+
+Package: starlabs-cursor-theme
+Architecture: all
+Description: Star Labs cursor theme with 3 variants
+
+

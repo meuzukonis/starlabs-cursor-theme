@@ -1,0 +1,17 @@
+starlabs-cursor-theme (0.0.3) bionic; urgency=medium
+
+  * Added source files
+
+ -- Sean Rhodes <sean@starlabs.systems>  Tue, 02 Oct 2018 15:59:33 +0100
+
+starlabs-cursor-theme (0.0.2) bionic; urgency=medium
+
+  * Updated colors.
+
+ -- Sean Rhodes <sean@starlabs.systems>  Tue, 02 Oct 2018 15:55:02 +0100
+
+starlabs-cursor-theme (0.0.1) bionic; urgency=medium
+
+  * Initial release.
+
+ -- Sean Rhodes <sean@starlabs.systems>  Tue, 02 Oct 2018 14:24:31 +0100
