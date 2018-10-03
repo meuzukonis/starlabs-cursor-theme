@@ -1,0 +1,1 @@
+# starlabs-cursor-theme
