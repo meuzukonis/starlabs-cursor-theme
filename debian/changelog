@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 starlabs-cursor-theme (1.0.2) bionic; urgency=medium
 
   * Fixed mismatched hand color
 
  -- Sean Rhodes <sean@starlabs.systems>  Sat, 19 Jan 2019 09:57:08 +0000
 
+=======
+>>>>>>> 318731d05586a1b87b627ac6de11d7616adb8438
 starlabs-cursor-theme (1.0.1) bionic; urgency=medium
 
   * Updated some icons
